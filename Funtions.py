@@ -9,7 +9,7 @@
 
 
 
-#using global variables as arguments to a function ( Note that if none of the parameters are defined for a function by default it will look for the global variables)
+#using global variables as arguments to a function  ( Note that if none of the parameters are defined for a function by default it will look for the global variables)
 
 x = 2
 y = 4
